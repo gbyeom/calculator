@@ -1,4 +1,6 @@
 #include <stdio.h>
+
+//by ssgoiddgoi
  
 int add(int, int);
 int sub(int, int);
