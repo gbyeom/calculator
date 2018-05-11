@@ -1,4 +1,6 @@
 #include <stdio.h>
+
+//by ssgoiddgoi
  
 int add(int, int);
 int sub(int, int);
@@ -41,7 +43,7 @@ int add(int number1, int number2)
  
 int sub(int number1, int number2)
 {
-	return number1 - number2;
+	return number1-number2;
 }
  
 int multi(int number1, int number2)
